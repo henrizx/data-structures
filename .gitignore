@@ -1,0 +1,108 @@
+# Compilados
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.exp
+
+# Diretórios de build
+[Bb]uild/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+ipch/
+out/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.user
+*.suo
+*.ncb
+*.sdf
+*.cachefile
+
+# Configurações locais do Visual Studio
+.vs/
+.vscode/
+
+# Arquivos de pacotes e dependências
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Outros
+*.dbmdl
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.tlog
+*.idb
+*.ilk
+
+# Arquivos de testes automáticos
+TestResults/
+*.coverage
+*.coveragexml
+
+# Arquivos gerados automaticamente
+*.manifest
+*.iobj
+*.ipdb
+# Compilados
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.exp
+
+# Diretórios de build
+[Bb]uild/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+ipch/
+out/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.user
+*.suo
+*.ncb
+*.sdf
+*.cachefile
+
+# Configurações locais do Visual Studio
+.vs/
+.vscode/
+
+# Arquivos de pacotes e dependências
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Outros
+*.dbmdl
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.tlog
+*.idb
+*.ilk
+
+# Arquivos de testes automáticos
+TestResults/
+*.coverage
+*.coveragexml
+
+# Arquivos gerados automaticamente
+*.manifest
+*.iobj
+*.ipdb
